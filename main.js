@@ -6,6 +6,6 @@ function gotonewyork(){
 function logout(){
     window.location="index.html";
 }
-}function gotosolution(){
+function gotosolution(){
     window.location="solution.html";
 }

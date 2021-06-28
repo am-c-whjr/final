@@ -1,0 +1,7 @@
+.body_background{
+    background:linear-gradient(white 0%, #27ae60 100%); 
+}
+#logout
+{
+	font-size: 10px; float: right;
+}
